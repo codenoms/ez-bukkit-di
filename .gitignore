@@ -1,0 +1,15 @@
+/.idea/
+/out/
+*.iml
+*.iws
+*.ipr
+
+/target/
+dependency-reduced-pom.xml
+
+*.jar
+*.class
+
+*.zip
+*.war
+*.ear
